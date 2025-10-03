@@ -1,0 +1,23 @@
+.statValue0 {
+  color: #2dd4bf;
+}
+
+.statValue1 {
+  color: #22d3ee;
+}
+
+.progressBar0 {
+  background: linear-gradient(to right, #14b8a6, #2dd4bf);
+}
+
+.progressBar1 {
+  background: linear-gradient(to right, #06b6d4, #22d3ee);
+}
+
+.width95 {
+  width: 95%;
+}
+
+.width90 {
+  width: 90%;
+}
